@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exchage", "Exchage\Exchage.csproj", "{55D54BB6-879F-45A1-96CC-2B4CE80797FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_PrivatBank", "ConsoleApp1\API_PrivatBank.csproj", "{7399699B-1101-4182-ADD8-A34DFA15F9B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMTP", "SMTP\SMTP.csproj", "{49B3715B-2EB8-440B-B9F4-9EC6D4B4F141}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55D54BB6-879F-45A1-96CC-2B4CE80797FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55D54BB6-879F-45A1-96CC-2B4CE80797FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55D54BB6-879F-45A1-96CC-2B4CE80797FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55D54BB6-879F-45A1-96CC-2B4CE80797FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7399699B-1101-4182-ADD8-A34DFA15F9B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7399699B-1101-4182-ADD8-A34DFA15F9B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7399699B-1101-4182-ADD8-A34DFA15F9B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7399699B-1101-4182-ADD8-A34DFA15F9B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49B3715B-2EB8-440B-B9F4-9EC6D4B4F141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49B3715B-2EB8-440B-B9F4-9EC6D4B4F141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49B3715B-2EB8-440B-B9F4-9EC6D4B4F141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49B3715B-2EB8-440B-B9F4-9EC6D4B4F141}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0365E90-13D8-45F8-B85C-511965B945E9}
+	EndGlobalSection
+EndGlobal

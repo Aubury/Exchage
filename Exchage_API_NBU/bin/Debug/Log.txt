@@ -1,0 +1,90 @@
+
+**********Check***********
+Date    26.06.2018
+Time   17:52
+Amount:  100 USD = 2617,363 UAN
+
+
+**********Check***********
+Date    26.06.2018
+Time   18:06
+Amount:  100 USD = 85,47009 EUR
+
+
+**********Check***********
+Date    26.06.2018
+Time   18:07
+Amount:  100 USD = 2617,363 UAN
+
+
+**********Check***********
+Date    26.06.2018
+Time   18:11
+Amount:  100 USD = 2617,363 UAN
+
+
+**********Check***********
+Date    26.06.2018
+Time   18:12
+Amount:  100 USD = 85,47009 EUR
+
+
+**********Check***********
+Date    26.06.2018
+Time   18:24
+Amount:  100 USD = 2617,363 UAN
+
+
+**********Check***********
+Date    26.06.2018
+Time   18:28
+Amount:  100 USD = 2617,363 UAN
+
+
+**********Check***********
+Date    26.06.2018
+Time   18:29
+Amount:  100 USD = 2617,363 UAN
+
+
+**********Check***********
+Date    26.06.2018
+Time   18:44
+Amount:  100 USD = 2617,363 UAN
+
+
+**********Check***********
+Date    26.06.2018
+Time   18:48
+Amount:  100 USD = 2617,363 UAN
+
+
+**********Check***********
+Date    26.06.2018
+Time   18:57
+Amount:  100 USD = 2617,363 UAN
+
+
+**********Check***********
+Date    26.06.2018
+Time   19:00
+Amount:  100 USD = 85,47009 EUR
+
+
+**********Check***********
+Date    26.06.2018
+Time   20:13
+Amount:  100 USD = 85,47009 EUR
+
+
+**********Check***********
+Date    26.06.2018
+Time   20:24
+Amount:  85 EUR = 99,45 USD
+
+
+**********Check***********
+Date    26.06.2018
+Time   20:27
+Amount:  100 USD = 85,47009 EUR
+

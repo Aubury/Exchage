@@ -1,0 +1,7 @@
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\3_УРОК\Exchage\SMTP\bin\Debug\SMTP.exe.config
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\3_УРОК\Exchage\SMTP\bin\Debug\SMTP.exe
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\3_УРОК\Exchage\SMTP\bin\Debug\SMTP.pdb
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\3_УРОК\Exchage\SMTP\obj\Debug\SMTP.csprojResolveAssemblyReference.cache
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\3_УРОК\Exchage\SMTP\obj\Debug\SMTP.csproj.CoreCompileInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\3_УРОК\Exchage\SMTP\obj\Debug\SMTP.exe
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\3_УРОК\Exchage\SMTP\obj\Debug\SMTP.pdb

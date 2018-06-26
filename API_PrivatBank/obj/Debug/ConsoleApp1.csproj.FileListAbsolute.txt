@@ -1,0 +1,14 @@
+C:\Users\aubur\source\repos\Exchage\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\aubur\source\repos\Exchage\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\aubur\source\repos\Exchage\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\aubur\source\repos\Exchage\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\aubur\source\repos\Exchage\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\aubur\source\repos\Exchage\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\aubur\source\repos\Exchage\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\3_УРОК\Exchage\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\3_УРОК\Exchage\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\3_УРОК\Exchage\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\3_УРОК\Exchage\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\3_УРОК\Exchage\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\3_УРОК\Exchage\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\3_УРОК\Exchage\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache

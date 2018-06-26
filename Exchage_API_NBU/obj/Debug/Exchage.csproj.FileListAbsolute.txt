@@ -1,0 +1,19 @@
+C:\Users\aubur\source\repos\Exchage\Exchage\bin\Debug\Exchage.exe.config
+C:\Users\aubur\source\repos\Exchage\Exchage\bin\Debug\Exchage.exe
+C:\Users\aubur\source\repos\Exchage\Exchage\bin\Debug\Exchage.pdb
+C:\Users\aubur\source\repos\Exchage\Exchage\obj\Debug\Exchage.csprojResolveAssemblyReference.cache
+C:\Users\aubur\source\repos\Exchage\Exchage\obj\Debug\Exchage.Form1.resources
+C:\Users\aubur\source\repos\Exchage\Exchage\obj\Debug\Exchage.Properties.Resources.resources
+C:\Users\aubur\source\repos\Exchage\Exchage\obj\Debug\Exchage.csproj.GenerateResource.Cache
+C:\Users\aubur\source\repos\Exchage\Exchage\obj\Debug\Exchage.csproj.CoreCompileInputs.cache
+C:\Users\aubur\source\repos\Exchage\Exchage\obj\Debug\Exchage.exe
+C:\Users\aubur\source\repos\Exchage\Exchage\obj\Debug\Exchage.pdb
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\3_УРОК\Exchage\Exchage\bin\Debug\Exchage.exe.config
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\3_УРОК\Exchage\Exchage\bin\Debug\Exchage.exe
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\3_УРОК\Exchage\Exchage\bin\Debug\Exchage.pdb
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\3_УРОК\Exchage\Exchage\obj\Debug\Exchage.Form1.resources
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\3_УРОК\Exchage\Exchage\obj\Debug\Exchage.Properties.Resources.resources
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\3_УРОК\Exchage\Exchage\obj\Debug\Exchage.csproj.GenerateResource.Cache
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\3_УРОК\Exchage\Exchage\obj\Debug\Exchage.csproj.CoreCompileInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\3_УРОК\Exchage\Exchage\obj\Debug\Exchage.exe
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Сетевое программирование\3_УРОК\Exchage\Exchage\obj\Debug\Exchage.pdb
